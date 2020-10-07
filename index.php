@@ -35,8 +35,8 @@
                 <label for="gpu">Carte graphique</label>
                 <select name="gpu" class="form-control">
                     <option value="0">MSCOPIA VeStrength 1050 GTX</option>
-                    <option value="0">MSCOPIA VeStrength 1650 GTX</option>
-                    <option value="0">MSCOPIA VeStrength 2050 GTX</option>
+                    <option value="1">MSCOPIA VeStrength 1650 GTX</option>
+                    <option value="2">MSCOPIA VeStrength 2050 GTX</option>
                 </select>
             </div>
             <div class="form-group">
